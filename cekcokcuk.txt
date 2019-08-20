@@ -1,13 +1,1 @@
 Data yang di butuhkan
-1. Gambar banner foto tentang sekolah ukuran 1700x600 pixel 4 buah
-2. Foto prestasi sekolah + deskripsi prestasi dan tanggal
-3. Foto prestasi siswa + judul prestasi
-4. List Ekstrakulikuler + foto
-5. Sejarah sekolah
-6. visi dan misi
-7. List fasilitas sekolah + foto
-8. Kalender akademik
-9. Jadwal dan tempat pendaftaran + kontak penaggungjawab
-10. Syarat pendaftaran
-11. Tanggal masuk tahun ajaran baru
-12. kontak dan alamat sekolah
